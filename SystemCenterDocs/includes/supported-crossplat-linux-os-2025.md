@@ -77,4 +77,3 @@ Supported versions:
 
 >[!NOTE]
 >If you encounter a discovery error **Azure Linux and Arc Linux Machines are unsupported** for any Linux VMs deployed in Azure, see [Troubleshoot discovery error - Azure Linux not supported](/system-center/scom/troubleshoot-discovery-error).
->
