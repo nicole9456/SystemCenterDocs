@@ -60,14 +60,13 @@ Supported versions:
 - Rocky 8, 9 and 10
 - Alma 8, 9 and 10
 - Red Hat Enterprise Linux (RHEL) Server 8, 9 and 10
-- CentOS 7 and 8
 
 >[!Note]
 >- Oracle Linux 9, Rocky 9, and Alma 9 are supported from Operations Manager 2022 UR1 and later when you apply this [hotfix](https://support.microsoft.com/topic/system-center-operations-manager-2022-now-has-openssl3-0-integration-kb-5024286-331bd221-10f9-42d5-bc06-775eaabe3081).
->- Oracle Linux 10, Rocky 10, and Alma 10 are supported from Operations Manager 2025 UR1 and later when you apply this hotfix(here should be the SCOM 2025 UR1 KB article link).
+>- Oracle Linux 10, Rocky 10, and Alma 10 are supported from Operations Manager 2025 UR1 and later when you apply this hotfix.
 >- RHEL 9 is supported from Operations Manager 2022 UR1 and later when you apply [this hotfix](https://support.microsoft.com/topic/system-center-operations-manager-2022-now-has-openssl3-0-integration-kb-5024286-331bd221-10f9-42d5-bc06-775eaabe3081). 
->- RHEL 10 is supported from Operations Manager 2025 UR1 and later when you apply this hotfix(here should be the SCOM 2025 UR1 KB article link).
-CentOS 7 and 8 isn't supported in Operations Manager 2025 UR1 and later.
+>- RHEL 10 is supported from Operations Manager 2025 UR1 and later when you apply this hotfix.
+>- CentOS 7 and 8 isn't supported in Operations Manager 2025 UR1 and later.
 >- Manually update the OpenSSH version in your environment to >= 8.7p1-29 to monitor RHEL 9.1 servers.
 
 |Required package|Description|Minimum version|
